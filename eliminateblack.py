@@ -1,3 +1,4 @@
+#去除图像黑色背景
 from PIL import Image 
 import cv2
 img2 = Image.open('tb.png')
