@@ -1,2 +1,2 @@
 # imageRecognition
-模板图像缺陷识别
+木板图像缺陷识别
